@@ -1,0 +1,33 @@
+runtime:
+  seed: 42
+  total_iters: 1
+  simulation_retry_per_iter: 3
+  evaluation_retry_per_call: 3
+llm_config:
+  provider: openai
+  model: gpt-4o-mini
+  api_key_env: OPENAI_API_KEY
+  base_url: null
+  temperature: 0.6
+  max_tokens: 4096
+  timeout: 60
+  dump_api_io: false
+  concurrency: 10
+agents_config:
+  number: 10
+exp_config:
+  days: 0.05
+  ticks_per_step: 300
+  start_tick: 21600
+paths:
+  origin_map_pb: data/example/berlin_0.pb
+  resident_preprocess_path: outputs/preprocess/berlin.json
+  allow_mismatch: false
+  out_root: outputs/runs
+planning:
+  cfg_template: planning_agent_pipeline_mm_refined/config.yaml
+  task_prompt: planning_agent_pipeline_mm_refined/task_prompt.txt
+  planning_only: false
+  planning_only_graph_json: ''
+evaluation:
+  sentiment_scale: 5

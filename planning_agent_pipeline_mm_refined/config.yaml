@@ -1,0 +1,35 @@
+paths:
+  pb_map: data/example/berlin_0.pb
+  pickle_map: data/example/berlin_0.pickle
+  graph_json: outputs/graph.json
+  resident_profiles: outputs/preprocess/berlin_profiles.json
+  resident_preferences: outputs/preprocess/berlin_preferences.json
+  task_prompt: planning_agent_pipeline_mm_refined/task_prompt.txt
+  outputs: outputs/planning
+llm:
+  provider: openai
+  model: gpt-4o-mini
+  api_key_env: OPENAI_API_KEY
+  base_url: null
+  temperature: 0.6
+  max_tokens: 4096
+  timeout: 120
+  dump_api_io: false
+run:
+  max_rounds: 2
+  phase1_max_steps: 8
+  phase2_max_steps: 16
+  phase3_max_steps: 16
+  max_branch_leaves: 2
+  concurrent_branch_workers: 1
+  enable_conflict_judgement: true
+  enable_self_evolving: true
+  init_self_evolving_from: ''
+  enable_environment_llm: true
+  importance_level3_ratio: 0.15
+  importance_level2_ratio: 0.25
+  service_radius_m: 500.0
+  id_service_radius_m: 1000.0
+  ecology_radius_m: 300.0
+  evaluation:
+    sentiment_scale: 5

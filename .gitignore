@@ -1,0 +1,15 @@
+outputs/
+__pycache__/
+*.py[cod]
+*.cache
+*.log
+*.db
+.env
+.env.*
+.venv/
+.DS_Store
+data/example/*.geojson
+
+# Keep required helpers even when staged from the parent project.
+!planning_agent/sim4pup_agent/tools/
+!planning_agent/sim4pup_agent/tools/data_loader.py

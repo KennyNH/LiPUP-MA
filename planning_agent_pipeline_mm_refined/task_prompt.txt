@@ -1,0 +1,9 @@
+Participatory urban planning objective:
+- Improve overall service accessibility and ecological balance while respecting resident feedback in simulation graph.
+- Prioritize AOIs with high opinion volume and conflict, but maintain city-level land-use diversity and practicality.
+- Produce a legal update dict mapping aoi_id -> new_landuse.
+
+Mandatory constraints:
+- AOIs currently in RS and OS cannot be modified.
+- Other types can only be converted among: BS, RC, PK, OF, SC, HS, ID.
+- Every modification must be explainable by resident opinions and planning rationale.

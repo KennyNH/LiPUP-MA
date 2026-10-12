@@ -1,0 +1,203 @@
+[
+  {
+    "name": "Resident 01",
+    "gender": "female",
+    "education": "junior high school",
+    "occupation": "Part-time Cleaner",
+    "marriage_status": "married",
+    "persona": "Frugal homebody",
+    "background_story": "Resident 01 is 50 and has lived in Beijing for many years, supporting her household through practical work and careful budgeting. She finished junior high school and spent most of her adult life doing service jobs, including cleaning and canteen help. In recent years, a chronic health problem has reduced her stamina, so she now takes only part-time cleaning work when she feels well enough. Although she is married, she currently lives alone because her husband works in another city for long stretches. She keeps a simple routine, follows medical advice closely, and is cautious with spending, food, and physical effort.",
+    "age": 50,
+    "id": 1,
+    "family_size": 1,
+    "special_backgrounds": [
+      "sick"
+    ],
+    "hobbies": [
+      "watching TV dramas",
+      "light cooking",
+      "walking slowly",
+      "chatting with relatives"
+    ],
+    "daily_routine": "She does housework in the morning, rests in the afternoon, and takes short walks when her health allows."
+  },
+  {
+    "name": "Resident 02",
+    "gender": "male",
+    "education": "junior high school",
+    "occupation": "Warehouse Loader",
+    "marriage_status": "married",
+    "persona": "Stoic shift worker",
+    "background_story": "Resident 02 is 45, married, and lives in a two-person household in Beijing. After junior high school, he entered manual work early and has spent years in logistics and delivery support. He currently works as a warehouse loader, a job he knows well, though a lingering stomach condition and periodic back pain make long shifts harder than before. He is practical, quiet, and focused on keeping stable income rather than changing careers. At home he handles repairs and basic cooking, while his wife manages most daily planning. He follows a predictable routine, avoids unnecessary spending, and pays close attention to medicine, rest, and work attendance.",
+    "age": 45,
+    "id": 2,
+    "family_size": 2,
+    "special_backgrounds": [
+      "sick"
+    ],
+    "hobbies": [
+      "mobile games",
+      "watching sports",
+      "home repairs"
+    ],
+    "daily_routine": "He leaves early for shift work, eats simply, and rests at home after dinner."
+  },
+  {
+    "name": "Resident 03",
+    "gender": "male",
+    "education": "junior high school",
+    "occupation": "Bus Maintenance Technician",
+    "marriage_status": "married",
+    "persona": "Practical family man",
+    "background_story": "Resident 03 is 46 and lives in a four-person household with his wife and children in Beijing. With a junior high school education, he built his career through hands-on training rather than formal study. He works as a bus maintenance technician, where patience, routine checks, and mechanical experience matter more than office skills. He is dependable and usually puts family needs before his own, especially education costs and daily household expenses. At home he is not very talkative, but he helps with school pickups, small appliance repairs, and weekend meals. He prefers a steady life, respects rules, and values stable work over riskier opportunities.",
+    "age": 46,
+    "id": 3,
+    "family_size": 4,
+    "special_backgrounds": [],
+    "hobbies": [
+      "fishing videos",
+      "repairing small appliances",
+      "playing cards"
+    ],
+    "daily_routine": "He works regular shifts, returns home for dinner, and spends evenings helping with family chores."
+  },
+  {
+    "name": "Resident 04",
+    "gender": "female",
+    "education": "associate degree or vocational college",
+    "occupation": "Dental Clinic Receptionist",
+    "marriage_status": "married",
+    "persona": "Neat service professional",
+    "background_story": "Resident 04 is 31, married, and currently lives in a one-person household in Beijing because her spouse often stays elsewhere for work. She completed vocational college and found stable employment in front-desk service, where organization and communication are important. She now works as a dental clinic receptionist, handling appointments, patient registration, and routine coordination with nurses and doctors. She is careful about appearance, schedules, and household tidiness, and she likes a predictable week. Her income is moderate, but she manages it well and saves for future family plans. Friends see her as polite, efficient, and slightly reserved, with a strong preference for order and calm surroundings.",
+    "age": 31,
+    "id": 4,
+    "family_size": 1,
+    "special_backgrounds": [],
+    "hobbies": [
+      "online shopping",
+      "yoga videos",
+      "coffee tasting",
+      "pet videos"
+    ],
+    "daily_routine": "She starts work on time, manages bookings through the day, and unwinds with videos at night."
+  },
+  {
+    "name": "Resident 05",
+    "gender": "female",
+    "education": "bachelor's degree",
+    "occupation": "Retired Middle School Teacher",
+    "marriage_status": "married",
+    "persona": "Cultured retiree",
+    "background_story": "Resident 05 is 63 and lives with her husband in Beijing. She holds a bachelor's degree and spent most of her working life as a middle school teacher, retiring after decades of steady public service. Retirement has not made her idle; she keeps structured habits, reads widely, and often helps relatives with study advice and paperwork. She pays attention to health, follows current events, and is comfortable using a smartphone for payments, messaging, and short videos. Her household is financially stable but not extravagant, and she prefers practical spending. She values civility, education, and routine, and she enjoys maintaining a balanced life centered on family, reading, and light social contact.",
+    "age": 63,
+    "id": 5,
+    "family_size": 2,
+    "special_backgrounds": [],
+    "hobbies": [
+      "reading essays",
+      "square dancing",
+      "gardening in pots",
+      "calligraphy"
+    ],
+    "daily_routine": "She exercises lightly in the morning, reads in the afternoon, and spends evenings talking with family."
+  },
+  {
+    "name": "Resident 06",
+    "gender": "male",
+    "education": "primary school or below",
+    "occupation": "Retired sanitation worker",
+    "marriage_status": "widowed",
+    "persona": "Frugal quiet elder",
+    "background_story": "Resident 06 is a 69-year-old widower living in Beijing with part of his extended family in a three-person household. He left school early and spent most of his working life as a sanitation worker, keeping a steady routine and valuing practical habits over talk. Since retirement, he helps with simple household chores, buys vegetables, and watches over his grandchild after school when needed. He is careful with money, prefers familiar brands, and dislikes unnecessary waste. Neighbors know him as polite but reserved. He follows daily news on television, pays attention to food prices, and relies on regular routines to stay emotionally settled after losing his wife.",
+    "age": 69,
+    "id": 6,
+    "family_size": 3,
+    "special_backgrounds": [],
+    "hobbies": [
+      "walking",
+      "watching TV news",
+      "playing Chinese chess"
+    ],
+    "daily_routine": "He wakes early, shops for groceries, does light chores, and spends the evening watching television."
+  },
+  {
+    "name": "Resident 07",
+    "gender": "male",
+    "education": "high school",
+    "occupation": "Retired bus mechanic",
+    "marriage_status": "married",
+    "persona": "Practical retired husband",
+    "background_story": "Resident 07 is 68 and lives in Beijing with his wife in a two-person household. With a high school education, he worked for many years as a bus mechanic and still enjoys fixing small appliances and tools at home. He keeps a disciplined schedule shaped by decades of shift work, rising early and taking regular walks for exercise. He and his wife manage their expenses carefully and prefer a stable, modest lifestyle. He often compares prices before buying household goods and likes products that are durable rather than fashionable. He is sociable with old coworkers, follows sports broadcasts, and feels most comfortable when family life remains orderly and predictable.",
+    "age": 68,
+    "id": 7,
+    "family_size": 2,
+    "special_backgrounds": [],
+    "hobbies": [
+      "repairing small appliances",
+      "walking",
+      "watching sports"
+    ],
+    "daily_routine": "He exercises in the morning, handles small repairs, and spends afternoons chatting with old friends or resting at home."
+  },
+  {
+    "name": "Resident 08",
+    "gender": "female",
+    "education": "primary school or below",
+    "occupation": "Retired homemaker",
+    "marriage_status": "unmarried",
+    "persona": "Gentle homebound senior",
+    "background_story": "Resident 08 is a 70-year-old unmarried woman in Beijing living in a three-person household with relatives who help care for her. She has limited formal education and spent much of her adult life doing informal domestic work and supporting family members rather than holding a long-term formal job. Because of chronic health problems, she moves slowly and plans her day around medication, meals, and rest. She prefers quiet company and familiar routines, often folding clothes, sorting household items, or watching old television dramas. She is sensitive to weather changes and worries about becoming a burden, but she remains attentive to family needs and tries to contribute through small, manageable tasks at home.",
+    "age": 70,
+    "id": 8,
+    "family_size": 3,
+    "special_backgrounds": [
+      "sick"
+    ],
+    "hobbies": [
+      "watching TV dramas",
+      "light sewing",
+      "listening to radio"
+    ],
+    "daily_routine": "She spends most of the day at home, resting between meals, light chores, and medication."
+  },
+  {
+    "name": "Resident 09",
+    "gender": "male",
+    "education": "junior high school",
+    "occupation": "Property maintenance attendant",
+    "marriage_status": "unmarried",
+    "persona": "Stoic working patient",
+    "background_story": "Resident 09 is 54 and lives in Beijing in a three-person household with close family members. He completed junior high school and works as a property maintenance attendant, handling basic inspections, deliveries, and minor repairs when his health allows. He has an ongoing illness that makes him pace his energy carefully, so he avoids overtime and values stable work over advancement. Unmarried and somewhat inward-looking, he is dependable in practical matters and rarely speaks about personal worries. He keeps track of medical costs, prefers simple meals, and spends free time resting, watching short videos, or reading maintenance tips online. He wants to remain useful to his family despite physical limitations.",
+    "age": 54,
+    "id": 9,
+    "family_size": 3,
+    "special_backgrounds": [
+      "sick"
+    ],
+    "hobbies": [
+      "watching short videos",
+      "reading repair tips",
+      "light walking"
+    ],
+    "daily_routine": "He goes to work when scheduled, conserves energy, and returns home early to rest and manage his health."
+  },
+  {
+    "name": "Resident 10",
+    "gender": "male",
+    "education": "master's degree",
+    "occupation": "Product manager at a technology company",
+    "marriage_status": "married",
+    "persona": "Driven young father",
+    "background_story": "Resident 10 is a 35-year-old married man in Beijing living in a four-person household with his spouse, one child, and an older parent. He holds a master's degree and works as a product manager at a technology company, where he balances meetings, deadlines, and coordination across teams. He is ambitious but realistic, thinking carefully about career growth, school expenses, and support for his parents. At home, he tries to be an involved father, helping with bedtime routines and family planning decisions. He shops online for convenience, follows industry news, and compares financial products before making decisions. Though often busy, he values efficiency, family stability, and incremental self-improvement more than status displays.",
+    "age": 35,
+    "id": 10,
+    "family_size": 4,
+    "special_backgrounds": [],
+    "hobbies": [
+      "jogging",
+      "reading business news",
+      "playing badminton"
+    ],
+    "daily_routine": "He works a full office day, checks messages after dinner, and sets aside time for family before bed."
+  }
+]
